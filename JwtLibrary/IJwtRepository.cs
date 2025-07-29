@@ -8,6 +8,6 @@ namespace JwtLibrary
 {
     public interface IJwtRepository
     {
-        
+        void Testing(int Id);
     }
 }
