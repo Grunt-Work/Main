@@ -9,5 +9,6 @@ namespace JwtLibrary
     public interface IJwtRepository
     {
         void Testing(int Id);
+        void TestingV2(int Id);
     }
 }
